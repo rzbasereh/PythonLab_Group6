@@ -5,7 +5,7 @@ golden_age = ['27BC-1453AD', '3150BC-30BC', '800BC-600AD', '221BC-1912AD', '750A
 
 zipped = zip(nation, golden_age)
 
-# print(list(zipped))
+print(list(zipped))
 
 _dict = dict(zipped)
 print(_dict)
