@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 n_bins = 50
-headers = ['ApplicantIncome']
 
 df = pd.read_csv('train.csv')
 
