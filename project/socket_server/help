@@ -1,0 +1,6 @@
+1)first run server.py
+2)in api.py : put your name of image in ( (data = {"name":name})) like (data = {"name":"20.jpg"}) )
+3)run api.py
+
+4)if there was your image , you will get a image that has been saved in your directory
+5)if there wasn't your image , tou will get a error text : "there is not your image"
